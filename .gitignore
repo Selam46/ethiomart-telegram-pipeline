@@ -1,0 +1,15 @@
+# Python-related ignores
+*.pyc
+__pycache__/
+
+# Environment and dependencies
+.venv/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/raw/
+data/processed/
+

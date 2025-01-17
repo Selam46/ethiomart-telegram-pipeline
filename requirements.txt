@@ -1,0 +1,16 @@
+# Core dependencies
+matplotlib
+seaborn
+# Telegram scraping
+telethon
+# Testing
+pytest 
+python-telegram-bot
+pandas
+numpy
+nltk
+opencv-python
+python-dotenv
+telethon
+
+
