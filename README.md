@@ -52,8 +52,4 @@ project/
    python scripts/preprocess_data.py
    ```
 
-## License
-This project is licensed under the MIT License.
 
-## Contact
-For support, contact **support@ethiomart.com**.
