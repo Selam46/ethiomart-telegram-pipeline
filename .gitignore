@@ -8,7 +8,7 @@ __pycache__/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-
+*.jpg
 # Data files
 data/raw/
 data/processed/
